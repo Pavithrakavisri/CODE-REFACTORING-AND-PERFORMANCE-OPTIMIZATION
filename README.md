@@ -14,3 +14,5 @@ The purpose of this project is to analyze, refactor, and optimize existing code 
 The project targets messy or inefficient codebases, identifying bottlenecks and applying best practices to ensure the code is clean, efficient, and scalable.
 
 "OUTPUT":
+
+![Image](https://github.com/user-attachments/assets/9ecbeb7f-1e83-4be1-9a9e-57ec5c5fd55d)
